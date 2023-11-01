@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm zurgeg, and my profile is a graveyard of useless repos and accidental forks.
 
 - 🔭 I’m currently working on [DSLink](https://www.github.com/NDSLink)
 - 😄 Pronouns: he/him
